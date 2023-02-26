@@ -1,4 +1,4 @@
-# ![AlertBook Logo](https://example.com/alertbook_logo.png) AlertBook
+# AlertBook
 
 Alertbook is an application designed to help you reduce yuor smartphone usage. With Alertbook, you can set time restrictions and traack the usage of social apps to help you stay mindful of your screen time.
 
