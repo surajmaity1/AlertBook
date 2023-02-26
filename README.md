@@ -1,6 +1,6 @@
 # AlertBook
 
-Alertbook is an application designed to help you reduce yuor smartphone usage. With Alertbook, you can set time restrictions and traack the usage of social apps to help you stay mindful of your screen time.
+AlertBook is an application designed to help you reduce your smartphone usage. With AlertBook, you can set time restrictions and track the usage of social apps to help you stay mindful of your screen time.
 
 ## Features
 
@@ -8,7 +8,7 @@ Alertbook is an application designed to help you reduce yuor smartphone usage. W
 
 - **Social app usage tracking:** See how much time you're spending on social apps like Facebook, Instagram, and Twitter. This feature can help you identify areas where you might be spending too much time on your phone.
 
-- **Alerts:** Receive alerts when you're spending too much time on your phone or when you've reached your daily limit. These alerts can help you stay mindful of your screen time and encourage you to take a break from your phone.
+- **Alerts:** Recieve alerts when you're spending too much time on your phone or when you've reached your daily limit. These alerts can help you stay mindful of your screen time and encourage you to take a break from your phone.
 
 ## Community
 
