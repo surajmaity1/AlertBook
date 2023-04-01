@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AlertBook</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="skip">Skip</string>
+    <string name="welcome_here">Welcome Here …</string>
+    <string name="what_we_do">What We Do …</string>
+    <string name="make_your_life_easy">Make Your Life Easy …</string>
+    <string name="info1">Your greatest resource is your time …</string>
+    <string name="info2">Give me six hours to chop down a tree and I will spend the first four sharpening the axe …</string>
+    <string name="info3">You can only manage time if you track it right …</string>
+
 </resources>
